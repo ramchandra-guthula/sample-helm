@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sample-chart3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-15T14:11:01.245763154Z"
+    description: Helm chart to deploy nginx deployment
+    digest: 7eae39c7c9f893e4424490801ad68eb0a8fd830f3c368243880a86942192ad5b
+    name: sample-chart3
+    type: application
+    urls:
+    - sample-chart3-0.1.6.tgz
+    version: 0.1.6
+generated: "2021-06-15T14:11:01.245312029Z"
